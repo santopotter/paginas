@@ -1,0 +1,17 @@
+body, html {
+        height: 100%;
+      }
+      .box{
+        background-image: url("https://portal.uv.cl/loginPrincipal2/assets/img/places/valpo1.jpg");
+        height: 100vh;
+        width: 250vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .visible.transition {
+        margin-top: auto !important;
+        display: inline-block !important;
+        position: relative;
+        top: 2%;
+      }
